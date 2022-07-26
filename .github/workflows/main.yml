@@ -138,6 +138,6 @@ jobs:
 
         with:
 
-          name: JellyMid Android Build
+          name: Yoshi Android Build
 
           path: export/release/android/bin/app/build/outputs/apk/debug
