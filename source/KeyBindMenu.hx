@@ -18,7 +18,7 @@ import flixel.text.FlxText;
 import flixel.tweens.FlxEase;
 import flixel.tweens.FlxTween;
 import flixel.util.FlxColor;
-#id newgrounds
+#if newgrounds
 import io.newgrounds.NG
 #end
 import lime.app.Application;
